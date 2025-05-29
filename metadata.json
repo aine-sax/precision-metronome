@@ -1,0 +1,5 @@
+{
+  "name": "Precision Metronome",
+  "description": "An advanced metronome application featuring tap tempo, customizable BPM, time signatures, note subdivisions (including triplets), and accent control. This version focuses on a rich local metronome experience. Multi-device synchronization is simulated for demonstration.",
+  "requestFramePermissions": []
+}
